@@ -82,20 +82,21 @@ java.io	For buffered read/write streams
 java.nio.file	For advanced file operations like replacing content
 Windows 10 Terminal	To compile and execute the .java file
 
-📌 4. Application Areas
+ 4. Application Areas
 This project has real-world applications in:
 
-📁 Log Editors: Modifying logs without deleting existing data
+ Log Editors: Modifying logs without deleting existing data
 
-🛠️ Configuration Managers: Replacing or updating settings in .txt or .cfg files
+Configuration Managers: Replacing or updating settings in .txt or .cfg files
 
-📋 Note-Taking Tools: Simple CLI-based notepads
+Note-Taking Tools: Simple CLI-based notepads
 
-🎓 Learning Tools: For students to understand I/O operations and string handling
+Learning Tools: For students to understand I/O operations and string handling
 
-🔐 Security Logs: Auto-modifying keywords or timestamps in audit trails
+ Security Logs: Auto-modifying keywords or timestamps in audit trails
 
-📚 5. References
+
+5. References
 GeeksforGeeks - File Handling in Java
 
 QuikrReference - Java File I/O Techniques and Examples
@@ -104,7 +105,7 @@ ErrorMathsCleaver - Common Java File Handling Errors and Solutions
 
 Code.io - Java Append and Modify File Data Tutorials
 
-✅ 6. Conclusion
+6. Conclusion
 This project helped me gain hands-on experience with file handling, string manipulation, exception handling, and user interaction in Java. I learned how to modularize a program using functions and how to design an intuitive CLI tool that simulates a basic text editor. With clear references, proper exception handling, and modular structure, this project stands as a reusable, expandable tool for simple text processing tasks.
 
 It also serves as a strong foundational step toward building more advanced utilities like code formatters, file-based databases, or command-line productivity tools.
