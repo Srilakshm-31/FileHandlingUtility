@@ -109,3 +109,7 @@ Code.io - Java Append and Modify File Data Tutorials
 This project helped me gain hands-on experience with file handling, string manipulation, exception handling, and user interaction in Java. I learned how to modularize a program using functions and how to design an intuitive CLI tool that simulates a basic text editor. With clear references, proper exception handling, and modular structure, this project stands as a reusable, expandable tool for simple text processing tasks.
 
 It also serves as a strong foundational step toward building more advanced utilities like code formatters, file-based databases, or command-line productivity tools.
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/5f12807b-c582-48b2-9360-9485d4134730)
